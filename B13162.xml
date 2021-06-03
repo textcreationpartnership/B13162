@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation and declaration to inform our loving subjects of our kingdom of England of the seditious practices of some in Scotland, seeking to overthrow our regall power under false pretences of religion.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13162</idno><idno type="EEBO-CITATION">99892509</idno>
+  <idno type="VID">185869</idno>
+  <idno type="EEBO-PROQUEST">2248565094</idno>
+  
+            <idno type="STC">ESTC S124126</idno>
+            <idno type="STC">STC 9135</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[32]</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[67]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[6]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[48]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[49*]</idno>
+            <idno type="STC">ESTC S124126</idno>
+            <idno type="PROQUEST">ocm99892509</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892509e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185869)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[32]; C6:1[67]; C9:3[6]; C10:1[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation and declaration to inform our loving subjects of our kingdom of England of the seditious practices of some in Scotland, seeking to overthrow our regall power under false pretences of religion.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[4] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1638 [i.e. 1639]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Whitehall the seven and twentieth day of February, in the fourteenth yeer of our reign ...</note>
+                  <note>The date is given according to Lady Day dating.</note>
+                  <note>Variants exist: sheet 1) line 5 of heading begins: 'under false' or 'under the false'; sheet 2) line 24 ends: 'look' or 'bet-'; sheet 3) line 6 ends 'that' or 'in'; sheet 4) last complete line of text ends 'Ju-' or 'Justice'.-- Cf. STC.</note>
+                  <note>Imperfect: cropped, with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:185869:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head type="sub">¶ A Proclamation and Declaration to inform Our loving Subjects of Our Kingdom of England of the seditious practices of some in Scotland, seeking to overthrow Our Regall Power under the false pretences of Religion.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas We have endeavoured now for a long time together</hi> by all calm and fair wayes to appease the disorders and tumul<g ref="char:EOLhyphen"/>tuous carriages caused by some evill affected persons in Our Realm of <hi>Scotland,</hi> but hitherto all in vain; We have now thought it not onely fit, but necessary in generall to informall Our loving Subjects in this Our Realm of <hi>England,</hi> what the truth is of Our proceedings, what Our lenitie and gentlenesse hath been to<g ref="char:EOLhyphen"/>wards them, and what froward and perverse returns they have made to Vs, notwithstanding all their specious pretences, the better to insinuate them<g ref="char:EOLhyphen"/>selves and their Odious cause into the minds of Our loyall Subjects here. These disorders and tumults have been thus raised in <hi>Scotland,</hi> and fomented by factious spirits, and those Traiterously affected, begun upon pretences of Religion, the common cloak for all disobedi<g ref="char:EOLhyphen"/>ence; but now it clearly appears, the aim of these Men is not Religion (as they falsly pre<g ref="char:EOLhyphen"/>tend and publish) but it is to shake off all Monarchicall government, and to vilifie Our Re<g ref="char:EOLhyphen"/>gall power justly descended upon Vs over them: Nay their malice reaches so farre, both against Our Power and Person, as that in a most cunning and subtill way they have en<g ref="char:EOLhyphen"/>deavoured to poison the hearts of Our good and loyall Subjects of this Our Kingdom, and to seduce them (were it in their power) to the like Rebellious courses with themselves: Now though We are most confident of Our peoples affections towards Vs (of which they have given Vs clear testimony by their ready and cheerfull Assistance in this cause) and have not the least thought that those turbulent spirits shall any way prevail with them, yet We cannot but hold it requisite to give them timely notice of their Traiterous intenti<g ref="char:EOLhyphen"/>ons, which very many wayes appears unto Vs.</p>
+            <p>As first, By the multitude of their printed Pamphlets, or rather indeed infamous Li<g ref="char:EOLhyphen"/>bels s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uffed full of calumnies against Our Regall Authority, and Our most just pro<g ref="char:EOLhyphen"/>ceedings, and spreading of them in divers parts of this Our Kingdom.</p>
+            <p>Secondly, By their sending of Letters to private persons, to incite them against Vs, and sending of some of their fellow-Covenanters to be at private meetings in <hi>London,</hi> and else<g ref="char:EOLhyphen"/>where, to pervert Our good people from their duty; and some of these meetings We know, and some of those Letters (lewd enough) We have seen.</p>
+            <pb facs="tcp:185869:2"/>
+            <p> Thirdly, By their publike contemning of all Our just Commands, and their mutinous protesting against them, a course not fit to be endured in any well ordered Kingdom.</p>
+            <p>Fourthly, By their rejecting of the Covenant commanded by Our authority, because it was commanded by Vs, whereas no Covenant or Band of that nature in that Kingdom hath ever been or can be legall and warrantable, which hath not been commanded, or at least assented unto by Royall authority: As for instance, That Covenant in Our dear Fathers time was condescended unto by Him, and so the Subject (at the humble Petition of the ge<g ref="char:EOLhyphen"/>nerall Assembly it self) permitted by Him to signe it. We say it again, That Our Cove<g ref="char:EOLhyphen"/>nant was rejected by them, because commanded by Vs; And this is manifest, because for matters of Religion Ours agreed in all things with their own Covenant: By which Co<g ref="char:EOLhyphen"/>venant of theirs, they have Treacherously induced many of Our people to swear to a Band against Vs; which Band and Covenant (or rather Conspiracy) of theirs, could not be with God, being against Vs the Lords anointed over them: But it was and is a Band and Covenant pretended to be with God, that they may with the better countenance do the works of the devill; such as all Treasons and Rebellions are.</p>
+            <p>And lastly, By their most hostile preparations in all kindes, as if We were not their King, but their sworn Enemy: For what can their intentions be, being thus prepared, but to invade this Kingdom, should they not finde Vs ready, both to resist their force and to curbe their insolencies: For many, and some of the chiefest amongst them, are men, not onely of unquiet spirits, but of broken fortunes, and would be very glad of any occasion (especially under the colour of Religion) to make them whole upon the Lands and Goods of Our Subjects in <hi>England,</hi> who We presume (besides their allegiance to Vs) will look better to themselves &amp; their estates, then to share them with such desperate Hypocrites, who seek to be better, and cannot well be worse. We demand again, what intentions else they can have; for We have already often assured them by Our published Proclamations, that We are so far from thinking of any Innovation or Alteration of Religion, that We are re<g ref="char:EOLhyphen"/>solved to maintain the same Constantly, and as it is established by Law in that Our King<g ref="char:EOLhyphen"/>dom; Nay, so desirous have We been to give content unto them, as that We have in a man<g ref="char:EOLhyphen"/>ner condescended to all which they Petitioned for; Nay, Our Princely Clemency in these produced no better effect, then increasing and daring Insolencies, to Our dishonour both at home and abroad: Yet We passed by all till they struck at the very Root of Kingly govern<g ref="char:EOLhyphen"/>ment; for they have now assumed to themselves Regall power; for whereas the Print is the Kings in all Kingdoms, these seditious men have taken upon them to Print what they please, though We forbid it, and to prohibit what they dislike, though We command it; and with the greater affront have forbid and dismist the Printer whom We established: Besides, they have taken upon them to Convene Our Subjects, raise Armies, block up and besiege Our Castles, to lay Impositions and Taxes upon Our people, threatning such as continue in loyalty to Vs, with force and violence. To this We shall adde that they have sleighted the directions and power of Our Councell Table in that Kingdom, and have set up Tables of their own, at which, some of their Leaders sit under the name of Committees from the late pretended generall Assembly or their Deputies. And thus they meet when and where they please, Treat and Conclude what they please, and send their Edicts thorow all parts of the Kingdom without any consent, nay without all knowledge of Vs, Our Com<g ref="char:EOLhyphen"/>missionet,
+<pb facs="tcp:185869:3"/>or Councell, and directly contrary to many standing Laws at this day in force in that Kingdom, and yet pretend violation of their Laws, as one of the main causes of their brain-sick distempers.</p>
+            <p>Here therefore We take God and the world to witnesse, We hold Our self forced and con<g ref="char:EOLhyphen"/>strained to Arm, not onely to reclaim them, and to set our kingly authority right again in that Our ancient and native Kingdom, but also for the safety of this Kingdom, Our loyall Subjects in it, with their wives, children, and goods, as well as Our own, against the rage and fury of these men and their Covenant. And this We think fit to let you further know, that We hope in time to make the best of them see that We will endure no such Co<g ref="char:EOLhyphen"/>venant and Band in Our Kingdom, to which We shall not consent: So the question is not now, whether a Service Book to be received or not; nor whether Episcopall govern<g ref="char:EOLhyphen"/>ment shall be continued, or Presbyteriall admitted, but whether We are their King or not: For though in some of their Libels they give Vs good words, and speak Vs fair for their own ends, especially in their last, Printed at <hi>Edenburgh,</hi> February <hi>quarto</hi> 1639. yet some of them refuse both the Oath of Allegiance and Supremacy, and publikely maintain that they are not obliged to take the same. Now how can We think these men are dutifull and loyall in their hearts, that broach such dangerous Opinions, or Religiously minded that teach such Rebellious Doctrine, and so contrary to all which Protestant Divines teach to<g ref="char:EOLhyphen"/>wards the King and the Civill Magistrate; Nay, they have infected divers of their Coun<g ref="char:EOLhyphen"/>trey-men (which are come into other parts) with the same Venome; for three <hi>Scots-men</hi> taken in <hi>Wales,</hi> are at this day Imprisoned for direct denyall of Our Supremacie and their Al<g ref="char:EOLhyphen"/>legiance, saying, They cannot take those Oathes, because they have sworn to the Covenant. But though We have been thus milde towards them, and continued so long, yet We would not have any of them, or any of Our other Subjects think, that We can or will permit Episcopall Government, established by many Acts of Parliament in that Our Kingdom, to be abolished, seeing it is known to the whole Christian world, that the same is most Christian in it self, and most Peaceable for the Civill State, and most consonant to Monarchi<g ref="char:EOLhyphen"/>call Government.</p>
+            <p>And We would have Our Subjects of that Kingdome consider, what will become of the third Estate there in Parliament, if Episcopacie should be abrogated.</p>
+            <p>And further, We think fit to Declare unto you, and to the Christian World, That by Our Intention of introducing the Service-Book into that Kingdome, We had not the least thought of Innovation of Religion in this or that, but meerly to have a Conformity with that Worship of God which is observed within both Our other Kingdomes, though ill minded men have wrested some things in it to a finister sence.</p>
+            <p>We further give you to understand, that there is a large Declaration coming forth, con<g ref="char:EOLhyphen"/>taining all the particular passages which have occurred in this businesse from the very be<g ref="char:EOLhyphen"/>ginning, attested with their own foul Acts, to disanull and shame their fair, but false words. But because this cannot so soon be made ready, We hold it most expedient to let this short Declaration forerun it, that Our loyall Subjects here and elsewhere, may not be infected with their false, wicked, specious, but most Seditious Informations. For example sake in their last Pamphlet (besides divers other false, base, and fawning Passages) there are these scandalous and most notorious untruths: As first, they say, That We have commit<g ref="char:EOLhyphen"/>ted the Arms We now take, and the Armies We now raise, into the hands of professed
+<pb facs="tcp:185869:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:185869:5"/>Papists, which is not more dishonourable to Our self, and the noble Persons intrusted by Vs, then odiously and notoriously false. Again they say, That some of power in the Hierarchie of <hi>England</hi> have been the cause of Our taking Arms to Invade Our native Kingdome, and of medling with their Religion; whereas it is most certain, that no one of them have done any thing therein, but by Our own Princely direction and com<g ref="char:EOLhyphen"/>mand. And for Arms, it is notoriously known to all Our Councell then present, That their Counsels were for Peace, and have been the perswaders (asmuch as in them lay) of the undeserved Moderation wherewith We have hitherto proceeded towards so great Offenders.</p>
+            <p>And further they say, That they intend no Act of Hostility against <hi>England,</hi> unlesse they shall be necessitated in their own defence. We would fain known, defence of what? Is it of disobedience? Defence against whom? Is it not against Vs their True and Law<g ref="char:EOLhyphen"/>full Soveraign? If they will defend against Vs, it ought to be by Law, and not by Arms: That Defence We shall never deny them: This by Arms We shall never permit them. Now Our Laws which they seem so much to value, are in a manner opprest by them, in so much that Our Iudges are so awed, as that they dare hardly proceed according to Law.</p>
+            <p>With these, and the like mutinous Libels, We desire Our good Subjects should not be infected, but that all of them might know the present necessity We have to Arm Our Self, which is for no other end, save onely for the safety and security of this Our King<g ref="char:EOLhyphen"/>dom, the reestablishment of Our Authorities in that, and the suppressing of such as have misled and abused Our Subjects there, and would (if not prevented) do the like here; but is no way to inforce any Innovation of Religion established in that Kingdom, or any wayes to infringe the Laws thereof, or any of their Liberties whatsoever, which are according to Law.</p>
+            <p>These are therefore to Will and Command all Our loving Subjects of this Our King<g ref="char:EOLhyphen"/>dom, That they receive no more of their seditious Pamphlets sent from <hi>Scotland,</hi> or any other place, concerning those affairs, which can have no other use or influence then to draw the hearts of Our loyall People to the like Rebellious courses. And that such of Our Sub<g ref="char:EOLhyphen"/>jects here, as have already received any of these Rebellious Pamphlets, do presently de<g ref="char:EOLhyphen"/>liver them to the next Iustice of Peace, that he may send them to one of Our Secretaries, as both they and the Iustices of Peace will answer it at their uttermost perils.</p>
+            <p>And Our further Will and pleasure is, That this Our Proclamation and Declaration be read in time of Divine Service in every Church within the Kingdome, That all Our People to the meanest, may see the notorious carriages of these men, and likewise the Iu<g ref="char:EOLhyphen"/>stice and Mercy of all Our proceedings.</p>
+            <closer>
+               <dateline>Given at Our Court at Whitehall <date>the seven and twentieth day of February, in the fourteenth yeer of Our Reign of England, Scotland, France, and Ireland.</date>
+               </dateline>
+               <lb/> ❧ God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
